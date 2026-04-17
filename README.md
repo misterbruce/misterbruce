@@ -1,15 +1,14 @@
 # Hi, I'm Bruce 👋
 
-> I enjoy learning and working on projects to one day help restore lost function utilizing assitive technology!
+> I enjoy learning and working on projects to one day help restore lost function utilizing assitive technology.
 
 ---
 
 ## About Me
 
-- 🔭 Currently working on CEP.
+- 🔭 Currently working on a Personalized Chess Engine.
 - 🌱 Learning Python.
-- 📫 Reach me at **[bruce.eldredge.00@gmail.com]** · [LinkedIn](https://linkedin.com/in/cyberbrucee) · [Portfolio](https://yoursite.com)
-- ⚡ Fun fact: I enjoy helping people.
+- 📫 Reach me at **bruce.eldredge.00@gmail.com** · [LinkedIn](https://linkedin.com/in/cyberbrucee) · [Portfolio](https://yoursite.com) _placeholder_
 
 ---
 
