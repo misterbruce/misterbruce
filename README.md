@@ -15,13 +15,14 @@
 ## Tech Stack
 
 **Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-### 🚀 Chess Engine w/ Personalization | CEP | (https://github.com/misterbruce/project)
+### 🚀 Chess Engine w/ Personalization | CEP | (https://github.com/misterbruce/Chess-Engine-w-Personalization)
 > This is software for an ultra-focus, easy-to-digest chess teaching device.  
 `Python`
 
