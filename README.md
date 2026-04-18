@@ -1,6 +1,4 @@
-# Hi, I'm Bruce 👋
-
-> I enjoy learning and working on projects to one day help restore lost function utilizing assitive technology.
+# Hello, I'm Bruce
 
 ---
 
