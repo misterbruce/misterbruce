@@ -1,6 +1,6 @@
 # Hey, I'm Bruce.
 
-I'm a college student based in USA. I enjoy helping people and am passionate about building technology that can help others live fuller lives.
+I'm a college student based in the USA. I enjoy helping people and am passionate about building technology that can help others live fuller lives.
 
 ---
 
