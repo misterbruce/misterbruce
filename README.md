@@ -19,6 +19,6 @@ I'm a college student based in the USA. I enjoy helping people and am passionate
 
 ## Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/cyberbruce)
+- 💼 [LinkedIn](https://www.linkedin.com/in/cyberbrucee/)
 - 📘 [Facebook](https://facebook.com/brc3.e)
 - 📸 [Instagram](https://instagram.com/brc3.e)
