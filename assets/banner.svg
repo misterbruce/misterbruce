@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="320" viewBox="0 0 1600 320" role="img" aria-label="Bruce Eldredge — Jr. Systems and Cybersecurity">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#061020"/><stop offset="1" stop-color="#102944"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#2362a0" stop-opacity=".28"/><stop offset="1" stop-color="#2362a0" stop-opacity="0"/></radialGradient>
+<linearGradient id="blue"><stop stop-color="#58b7fb"/><stop offset="1" stop-color="#2896eb"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8dccff" stroke-opacity=".045"/></pattern>
+</defs>
+<rect width="1600" height="320" rx="14" fill="url(#bg)"/>
+<rect width="1600" height="320" rx="14" fill="url(#grid)"/>
+<ellipse cx="140" cy="290" rx="560" ry="380" fill="url(#halo)"/>
+<path d="M-40 315C115 85 250 95 390 250" fill="none" stroke="#3a9ef9" stroke-opacity=".55" stroke-width="2"/>
+<path d="M1380 -40C1455 105 1510 165 1640 190" fill="none" stroke="#3a9ef9" stroke-opacity=".45" stroke-width="2"/>
+<text x="52" y="62" font-family="monospace" font-size="20" fill="#75b9f3">misterbruce@github:~$</text>
+<rect x="322" y="44" width="12" height="24" fill="#75b9f3"/>
+<text x="365" y="177" font-family="Arial,Helvetica,sans-serif" font-size="77" font-weight="300" letter-spacing="6" fill="#f4f7fb">BRUCE</text>
+<text x="692" y="177" font-family="Arial,Helvetica,sans-serif" font-size="77" font-weight="600" letter-spacing="6" fill="url(#blue)">ELDREDGE</text>
+<path d="M417 223H520M1090 223H1193" stroke="#438ac8" stroke-width="1.5"/>
+<text x="805" y="233" text-anchor="middle" font-family="monospace" font-size="23" letter-spacing="6" fill="#9db2ca">JR. SYSTEMS &amp; CYBERSECURITY</text>
+</svg>
