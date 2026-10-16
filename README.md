@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Bruce Eldredge — Jr. Systems and Cybersecurity" width="100%" />
+  <img src="./assets/BF0DBB33-270E-4472-AC0D-BBC2C7CD8FE6.png" alt="Bruce Eldredge — Jr. Systems and Cybersecurity" width="100%" />
 </p>
 
 ## Hi, I'm Bruce.
